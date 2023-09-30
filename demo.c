@@ -3,5 +3,6 @@ add something
 add something again
 add 666 just for testing
 add something for develop branch
+add something for feature1 branch
 add something for develop branch again
 add a line just for testing
